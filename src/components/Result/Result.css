@@ -1,0 +1,12 @@
+.containerResult{
+  width: 250px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+  border-radius: 20px;
+  padding: 2rem;
+
+}
