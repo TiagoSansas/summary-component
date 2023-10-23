@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 175px;
+}
+ h3{
+  color:hsl(0, 0%, 100%);
+  padding-bottom:0.5rem ;
+  line-height: rem;
+}
+.message p{
+  font-size: 0.75rem;
+  color:hsl(0, 0%, 100%);
+}
